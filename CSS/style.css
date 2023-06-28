@@ -159,3 +159,27 @@ body {
   line-height: 0.15;
   letter-spacing: 0.02em;
 }
+.footer-logo-accent {
+  color: #4d5ae5;
+  font-size: 18px;
+  font-family: Raleway;
+  font-weight: 800;
+  line-height: 1.16;
+  letter-spacing: 0.03em;
+}
+.footer-logo {
+  color: #fff;
+  font-size: 18px;
+  font-family: Raleway;
+  font-weight: 800;
+  line-height: 1.16;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+}
+/*------------------------- Directional buttons -------------------------*/
+.directional-buttons {
+}
+.directional-buttons-list {
+}
+.directional-buttons-item {
+}
