@@ -180,6 +180,92 @@ body {
 .directional-buttons {
 }
 .directional-buttons-list {
+  list-style-type: none;
 }
 .directional-buttons-item {
+}
+.directional-buttons-btn {
+  color: #4d5ae5;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 0.15;
+  letter-spacing: 0.04em;
+  font-family: inherit;
+  border-radius: 4px;
+  padding: 16px 32px;
+  background: #f4f4fd;
+}
+.directional-buttons-btn:hover,
+.directional-buttons-btn:focus {
+  background-color: #404bbf;
+  color: #f4f4f4;
+}
+/*---------------------------------services----------------------------------*/
+.services {
+}
+.services-list {
+  list-style-type: none;
+}
+.services-item {
+}
+.services-text {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 0.12;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.services-subtitle {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 0.12;
+  letter-spacing: 0.02em;
+}
+/*---------------------------------services-2----------------------------------*/
+.services-2 {
+}
+.services-2-list {
+  list-style-type: none;
+}
+.services-2-item {
+}
+.services-2-text {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 0.12;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.services-2-subtitle {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 0.12;
+  letter-spacing: 0.02em;
+}
+/*---------------------------------services-3----------------------------------*/
+.services-3 {
+}
+.services-3-list {
+  list-style-type: none;
+}
+.services-3-item {
+}
+.services-3-text {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 0.12;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.services-3-subtitle {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 0.12;
+  letter-spacing: 0.02em;
 }
