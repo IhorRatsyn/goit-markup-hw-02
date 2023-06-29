@@ -231,11 +231,11 @@ body {
 }
 .services-item {
 }
-.services-subtitle{
+.services-subtitle {
   color: var(--navyblue);
   font-size: 20px;
   font-style: normal;
-  font-weight: 500;x
+  font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
