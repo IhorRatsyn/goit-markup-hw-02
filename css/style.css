@@ -231,62 +231,19 @@ body {
 }
 .services-item {
 }
+.services-subtitle{
+  color: var(--navyblue);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;x
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
 .services-text {
-  font-size: 20px;
+  font-size: 16px;
   font-style: normal;
   font-weight: 500;
-  line-height: 0.12;
+  line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
-}
-.services-subtitle {
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 500;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-}
-/*---------------------------------services-2----------------------------------*/
-
-.services-2-list {
-  list-style-type: none;
-}
-.services-2-item {
-}
-.services-2-text {
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 500;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-.services-2-subtitle {
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 500;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-}
-/*---------------------------------services-3----------------------------------*/
-
-.services-3-list {
-  list-style-type: none;
-}
-.services-3-item {
-}
-.services-3-text {
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 500;
-  line-height: 0.12;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-.services-3-subtitle {
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 500;
-  line-height: 0.12;
-  letter-spacing: 0.02em;
+  color: var(--slate);
 }
