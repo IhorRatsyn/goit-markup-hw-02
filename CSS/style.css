@@ -80,21 +80,22 @@ body {
   text-align: center;
   font-size: 56px;
   font-weight: 700;
-  line-height: 0.11;
+  line-height: 1.07;
   letter-spacing: 0.02em;
 }
 .hero-btn {
   color: #fff;
   font-size: 16px;
   font-weight: 500;
-  line-height: 0.15;
+  line-height: 1.5;
   letter-spacing: 0.04em;
   font-family: inherit;
-  background-color: #4d5ae5;
+  cursor: pointer;
+  background-color: var(--iris);
 }
 .hero-btn:hover,
 .hero-btn:focus {
-  background-color: #404bbf;
+  background-color: var(--ocean);
 }
 /*-----------------------------Our Options ----------------------------*/
 .our-options {
