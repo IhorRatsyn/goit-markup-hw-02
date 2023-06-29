@@ -130,7 +130,9 @@ body {
 .we-doing-title {
   font-size: 36px;
   font-weight: 700;
-  line-height: 0.12;
+  line-height: 1.11;
+  text-align: center;
+  color: var(--navyblue);
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
@@ -139,13 +141,15 @@ body {
 }
 /*---------------------------- Team ---------------------------------------*/
 .team {
-  background-color: #f4f4fd;
+  background-color: #ffffff;
 }
 .team-title {
   font-size: 36px;
   font-weight: 700;
-  line-height: 0.12;
+  line-height: 1.11;
+  text-align: center;
   letter-spacing: 0.02em;
+  color: var(--navyblue);
   text-transform: capitalize;
 }
 .team-list {
@@ -156,13 +160,14 @@ body {
 .team-name {
   font-size: 20px;
   font-weight: 500;
-  line-height: 0.12;
+  line-height: 1.2;
   letter-spacing: 0.02em;
+  color: var(--navyblue);
 }
 .team-position {
   color: #434455;
   font-size: 16px;
-  line-height: 0.15;
+  line-height: 1.5;
   letter-spacing: 0.02em;
 }
 /*----------------------------- footer ----------------------------------*/
@@ -173,11 +178,11 @@ body {
 .footer-main-text {
   color: #f4f4fd;
   font-size: 16px;
-  line-height: 0.15;
+  line-height: 1.5;
   letter-spacing: 0.02em;
 }
 .footer-logo-accent {
-  color: #4d5ae5;
+  color: #f4f4fd;
   font-size: 18px;
   font-family: Raleway;
   font-weight: 800;
@@ -185,13 +190,14 @@ body {
   letter-spacing: 0.03em;
 }
 .footer-logo {
-  color: #fff;
+  color: var(--iris);
   font-size: 18px;
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-weight: 800;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-decoration: none;
+  text-transform: uppercase;
 }
 /*------------------------- Directional buttons -------------------------*/
 .directional-buttons {
