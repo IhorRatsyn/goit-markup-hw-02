@@ -54,7 +54,12 @@ body {
   letter-spacing: 0.02em;
   color: var(--navyblue);
 }
+
 .header-socials {
+  font-style: normal;
+}
+
+.header-social-list {
 }
 .header-social-item {
   list-style-type: none;
@@ -71,6 +76,7 @@ body {
 .header-social-link:focus {
   color: var(--ocean);
 }
+
 /*-------------------------HERO-----------------------------*/
 
 .hero {
