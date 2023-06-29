@@ -64,11 +64,11 @@ body {
 }
 .header-menu-link:hover,
 .header-menu-link:focus {
-  color: #404bbf;
+  color: var(--ocean);
 }
 .header-social-link:hover,
 .header-social-link:focus {
-  color: #404bbf;
+  color: var(--ocean);
 }
 /*-------------------------HERO-----------------------------*/
 
