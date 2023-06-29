@@ -66,8 +66,6 @@ body {
 /*-------------------------HERO-----------------------------*/
 
 .hero {
-  width: 1440px;
-  height: 600px;
   background-color: #2e2f42;
 }
 .hero-title {
@@ -85,8 +83,6 @@ body {
   line-height: 0.15;
   letter-spacing: 0.04em;
   font-family: inherit;
-  border-radius: 4px;
-  padding: 16px 32px;
   background-color: #4d5ae5;
 }
 .hero-btn:hover,
@@ -156,8 +152,6 @@ body {
 /*----------------------------- footer ----------------------------------*/
 .footer {
   background-color: #2e2f42;
-  width: 1440px;
-  height: 312px;
   flex-shrink: 0;
 }
 .footer-main-text {
@@ -198,8 +192,6 @@ body {
   line-height: 0.15;
   letter-spacing: 0.04em;
   font-family: inherit;
-  border-radius: 4px;
-  padding: 16px 32px;
   background: #f4f4fd;
 }
 .directional-buttons-btn:hover,
